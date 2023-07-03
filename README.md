@@ -94,10 +94,57 @@ Trello Board’da bahsedilen Sprint Task’leri görüntülenebilir.
 
 - Assetlerin biraz daha detaylı geliştirilmesi ve kodlarda optimizasyonu arttırma kararı alınmıştır.  
 
-- **Sprint Retrospective:**
+- **Sprint Retrospective**:
 - Takım içindeki task paylaşımıyla ilgili düzenleme yapılması kararı alınmıştır
             
-- Tahmin puanları gözden geçirilmeli ve sprint planlama toplantılarında gerekli geri   bildirimlerin verildiğine emin olunmalı
+- Tahmin puanları gözden geçirilmeli ve sprint planlama toplantılarında gerekli geri  bildirimlerin verildiğine emin olunmalı
 
 - Takım üyelerinin gelecek sprintlerde aktif olması gerektiğine vurgu yapılmıştır.
+
+# Sprint 2
+
+- **Sprint Notları**:Grup içinde, kullanılan cihazlar arası yazılımsal çeşitli uyumsuzluklar, donanımsal bazı aksaklıklar ve bazı iletişim problemleri yaşandığı için bu sprint için öngörülen hedefler 170 puanla sınırlandırılmıştır.
+- **Sprint içinde tamamlanması tahmin edilen puan**:170 puan 
+- **Puan tamamlama mantığı**:Toplamda sprint boyunca tamamlanması gereken 170 puanlık backlog bulunmaktadır. İkinci sprint'e 170 puan atanması gerektiğine karar verildi. Bu sprintte harcanan saat ve görevlerin zorluğuna göre puanlama yapılmıştır.
+- **Puanlamalar**:
+- Işıklandırma ve Materyal Ayarı:40 puan
+- Modellemeler:30 puan
+- Ana Menü:30 puan
+- Karakterin İmleç Takibinin Düzenlenmesi:40 puan
+- Kapı açma Mekaniği:30 puan
+- 
+- **Backlog düzeni**: Backlog'umuz ilk yapılacak task'lere göre ekip arkadaşlarımızla beraber düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde uygulanabilmesi için kolay seçimler yapılmaktadır.
+- 
+- **Daily Scrum**:
+![image](https://github.com/ozumCanBulundu/U_128/assets/135602206/b64ab14f-fae1-46f6-977c-fcbddb67af93)
+![image](https://github.com/ozumCanBulundu/U_128/assets/135602206/17a6b175-731c-4d1c-8366-e7806be35914)
+![image](https://github.com/ozumCanBulundu/U_128/assets/135602206/1d56e4ac-baf7-44ac-81e3-243b6a658a3e)
+![image](https://github.com/ozumCanBulundu/U_128/assets/135602206/26fa39d3-d2da-4ac8-a7f7-da0049cc767d)
+![image](https://github.com/ozumCanBulundu/U_128/assets/135602206/c2c0ec25-2ed9-475a-acb0-04deb77080aa)
+
+- **Sprint board update**:Sprint board screenshotları:
+- ![image](https://github.com/ozumCanBulundu/U_128/assets/135602206/a6fa6c1f-d5b1-4d54-ae93-ea48b719b23d)
+- ![image](https://github.com/ozumCanBulundu/U_128/assets/135602206/6c4eda4d-23ec-4f90-b91e-8d29d198200f)
+
+
+
+- **Ürün Durumu**:Ekran görüntüleri:
+- ![image](https://github.com/ozumCanBulundu/U_128/assets/135602206/61fdc0ec-68a9-4109-a0ae-0a8e91cf0451)
+![image](https://github.com/ozumCanBulundu/U_128/assets/135602206/2252581f-d2cc-4c19-baba-72c47e221071)
+- ![image](https://github.com/ozumCanBulundu/U_128/assets/135602206/b942b7e5-9182-45c4-b162-a9a509fd59c6)
+![image](https://github.com/ozumCanBulundu/U_128/assets/135602206/1985e40f-4407-4c6a-b55e-dcd8a760409c)
+![image](https://github.com/ozumCanBulundu/U_128/assets/135602206/9aacdca0-c0fc-48d3-a279-5d65805c06cc)
+![image](https://github.com/ozumCanBulundu/U_128/assets/135602206/21685443-4417-4bca-9843-c7a75d1f6b68)
+
+
+
+- **Sprint Review**:
+- Levellar oluşturulacak
+- Levelları geliştirmek üzere bulmacalar eklenecek
+- Giriş ekranı geliştirilecek
+- İlerlemeler koordine edilip gameplay test edilecek
+- 
+- **Sprint Retrospective**:- Takım içindeki task paylaşımıyla ilgili tekrar düzenleme yapılması kararı alınmıştır.
+- Sprint planlama toplantılarında daha gerçekçi yol haritası çizilmeli
+- Daily scrumlarda detaylı raporlama yapılması kararlaştırılmıştır.
 
