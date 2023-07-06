@@ -7,14 +7,14 @@ public class Movement : MonoBehaviour
     public float acceleration = 5f; 
 
     private Rigidbody rb;
-    private Rigidbody2D rb2d;
     private Vector2 currentVelocity;
-    private Vector2 targetVelocity;
+    private Vector3 targetVelocity;
+    private CharacterController controller;
 
     private void Start()
     {
         rb = GetComponent<Rigidbody>();
-        //rb2d = GetComponent<Rigidbody2D>();
+        controller = GetComponent<CharacterController>();
     }
 
     private void Update()
@@ -23,12 +23,10 @@ public class Movement : MonoBehaviour
         float moveHorizontal = Input.GetAxis("Horizontal");
         float moveVertical = Input.GetAxis("Vertical");
 
+        Vector3 movement = new Vector3(moveHorizontal, 0f, moveVertical);
+        movement = movement.normalized * moveSpeed * Time.deltaTime;
 
-        targetVelocity = new Vector2(moveHorizontal, moveVertical) * moveSpeed;
-
-        currentVelocity = Vector2.Lerp(currentVelocity, targetVelocity, acceleration * Time.deltaTime);
-
-        rb.velocity = currentVelocity;
+        controller.Move(movement);
 
 
         //face to the cursor
