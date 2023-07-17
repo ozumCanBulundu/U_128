@@ -148,3 +148,45 @@ Trello Board’da bahsedilen Sprint Task’leri görüntülenebilir.
 - Sprint planlama toplantılarında daha gerçekçi yol haritası çizilmeli
 - Daily scrumlarda detaylı raporlama yapılması kararlaştırılmıştır.
 
+
+  # Sprint 3
+
+- **Sprint Notları**: Grup içinde, kullanılan cihazlar arası yazılımsal çeşitli uyumsuzluklar ve  donanımsal bazı aksaklıklar yaşandığı için bu sprint için öngörülen hedefler   puanla sınırlandırılmıştır.
+
+
+- **Sprint içinde tamamlanması tahmin edilen puan**:  Puan
+
+- **Puan tamamlama mantığı**: Toplamda sprint boyunca tamamlanması gereken  puanlık backlog bulunmaktadır. 4 sprint'e bölündüğünde ilk sprint'in en azından 120 ile başlaması gerektiğine karar verildi. Bu sprintte harcanan saat ve görevlerin zorluğuna göre puanlama yapılmıştır.
+- **Puanlamalar**:
+- Oyun Detayları ve Backstory’sinin kararlaştırılması: puan
+- Level Design: puan
+- Ana Karakterin Koşma Mekaniği: puan
+- Yan Karakterlerin Hareketi: puan
+- Karakter Tasarımı: puan
+  
+Trello Board’da bahsedilen Sprint Task’leri görüntülenebilir.
+
+- **Backlog düzeni**:  Backlog'umuz ilk yapılacak task'lere göre ekip arkadaşlarımızla beraber düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde uygulanabilmesi için kolay seçimler yapılmaktadır. 
+
+
+
+- **Daily Scrum**: Daily Scrum toplantılarının Slack ve Whatsapp platformları üzerinden yazılı olarak ve Discord yayını aracılığıyla toplantılar şeklinde gerçekleştirilmiştir. Çeşitli Daily Scrum toplantısı örnekleri pdf olarak Readme'de tarafımızdan paylaşılmaktadır: 
+
+- **Sprint board update**: Sprint board screenshotları: 
+
+- **Ürün Durumu**: Ekran görüntüleri:
+
+- **Sprint Review**:
+- Karakter oluşturulmuş, harita assetlerinin bir kısmı oluşturulmuş, oyun mekaniklerinden karakter ve düşman hareketleri kodlanmış, öngörülen diğer mekaniklerin kodlanması da planlanmıştır.
+
+- Assetlerin biraz daha detaylı geliştirilmesi ve kodlarda optimizasyonu arttırma kararı alınmıştır.  
+
+- **Sprint Retrospective**:
+- Takım içindeki task paylaşımıyla ilgili düzenleme yapılması kararı alınmıştır
+            
+- Tahmin puanları gözden geçirilmeli ve sprint planlama toplantılarında gerekli geri  bildirimlerin verildiğine emin olunmalı
+
+- Takım üyelerinin gelecek sprintlerde aktif olması gerektiğine vurgu yapılmıştır.
+
+
+
