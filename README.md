@@ -186,7 +186,13 @@ Trello Board’da bahsedilen Sprint Task’leri görüntülenebilir.
 
 
 
-- **Sprint board update**: Sprint board screenshotları: 
+- **Sprint board update**: Sprint board screenshotları:
+- ![image](https://github.com/ozumCanBulundu/U_128/assets/135602206/e4fab09a-747c-46cc-bc49-3d77aa2fb8ca)
+- ![image](https://github.com/ozumCanBulundu/U_128/assets/135602206/9af3d097-fa5d-4125-91a1-02177d0064be)
+- ![image](https://github.com/ozumCanBulundu/U_128/assets/135602206/b8032e3c-de42-4128-8860-536923f7366e)
+
+
+
 
 - **Ürün Durumu**: Ekran görüntüleri:
 ![image](https://github.com/ozumCanBulundu/U_128/assets/135602206/0c1fbffa-8c4c-46ac-830b-1085d6ca182d)
@@ -200,11 +206,11 @@ Trello Board’da bahsedilen Sprint Task’leri görüntülenebilir.
 
 
 - **Sprint Review**:
-- 
+
 - Karakter oluşturulmuş, harita assetleri oluşturulmuş, level eklenmiş, karakter ve düşman hareketleri mekanikleri tamamlanmıştır.
 
 - **Sprint Retrospective**:
-- 
+ 
 - Takım içindeki task paylaşımı ve tahmini takvimler planlandığından uzaklaştı.
 
 - Karşılaşılan sorunlar açıkça konuşulmadı, tartışıp çözüm üretmekte biraz geciktik.  
