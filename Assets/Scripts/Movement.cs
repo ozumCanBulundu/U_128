@@ -4,8 +4,9 @@ using UnityEngine;
 public class Movement : MonoBehaviour
 {
     public float moveSpeed = 5f; 
-    public float acceleration = 5f; 
+    public float acceleration = 5f;
 
+    [SerializeField]private Animator animator;
     private Rigidbody rb;
     private Vector2 currentVelocity;
     private Vector3 targetVelocity;
@@ -25,6 +26,15 @@ public class Movement : MonoBehaviour
 
         Vector3 movement = new Vector3(moveHorizontal, 0f, moveVertical);
         movement = movement.normalized * moveSpeed * Time.deltaTime;
+
+        if (movement.magnitude > 0f )
+        {
+            animator.SetBool("isMoving", true);
+        }
+        else
+        {
+            animator.SetBool("isMoving", false);
+        }
 
         controller.Move(movement);
 
