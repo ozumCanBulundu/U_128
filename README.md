@@ -151,14 +151,14 @@ Trello Board’da bahsedilen Sprint Task’leri görüntülenebilir.
 
   # Sprint 3
 
-- **Sprint Notları**: Grup içinde, kullanılan cihazlar arası yazılımsal çeşitli uyumsuzluklar, donanımsal bazı aksaklıklar, bazı iletişim problemleri yaşandığı ve ekip üyelerinin sınav tarihleri üst üste geldiği için bu sprint için öngörülen hedefler 330 puanla sınırlandırılmıştır.
+- **Sprint Notları**: Grup içinde, kullanılan cihazlar arası yazılımsal çeşitli uyumsuzluklar, donanımsal bazı aksaklıklar, bazı iletişim problemleri yaşandığı ve ekip üyelerinin sınav tarihleri üst üste geldiği için bu sprint için öngörülen hedefler 320 puanla sınırlandırılmıştır.
 
-- **Sprint içinde tamamlanması tahmin edilen puan**: 330 Puan
+- **Sprint içinde tamamlanması tahmin edilen puan**: 320 Puan
 
-- **Puan tamamlama mantığı**: Toplamda sprint boyunca tamamlanması gereken 330 puanlık backlog bulunmaktadır. Bu sprintte harcanan saat ve görevlerin zorluğuna göre puanlama yapılmıştır.
+- **Puan tamamlama mantığı**: Toplamda sprint boyunca tamamlanması gereken 320 puanlık backlog bulunmaktadır. Bu sprintte harcanan saat ve görevlerin zorluğuna göre puanlama yapılmıştır.
 - **Puanlamalar**:
-- Oyun içi Minigame'lerin eklemmesi: 40 puan
-- Yeni Level Dizaynı: 60 puan
+- Oyun içi Minigame'lerin eklenmesi: 30 puan
+- Yeni Level Dizaynı: 50 puan
 - El Feneri Mekaniği: 50 puan
 - Yan Karakterlerin Dizaynı: 40 puan
 - Gameplay'i test etme, Hata Ayıklama: 30 puan
@@ -166,7 +166,9 @@ Trello Board’da bahsedilen Sprint Task’leri görüntülenebilir.
 - Play/Stop eklentisi: 30 puan
 - Kamera eklenmesi, gameplay açılarının kararlaştırılması: 20 Puan
 - Karakter Animasyonları Ekleme: 40 Puan
-Trello Board’da bahsedilen Sprint Task’leri görüntülenebilir.
+- Gameplay Videosu: 10 Puan
+
+-Trello Board’da bahsedilen Sprint Task’leri görüntülenebilir.
 
 - **Backlog düzeni**:  Backlog'umuz ilk yapılacak task'lere göre ekip arkadaşlarımızla beraber düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde uygulanabilmesi için kolay seçimler yapılmaktadır. 
 
