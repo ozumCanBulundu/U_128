@@ -151,12 +151,11 @@ Trello Board’da bahsedilen Sprint Task’leri görüntülenebilir.
 
   # Sprint 3
 
-- **Sprint Notları**: Grup içinde, kullanılan cihazlar arası yazılımsal çeşitli uyumsuzluklar, donanımsal bazı aksaklıklar, bazı iletişim problemleri yaşandığı ve ekip üyelerinin sınav tarihleri üst üste geldiği için bu sprint için öngörülen hedefler 240 puanla sınırlandırılmıştır.
+- **Sprint Notları**: Grup içinde, kullanılan cihazlar arası yazılımsal çeşitli uyumsuzluklar, donanımsal bazı aksaklıklar, bazı iletişim problemleri yaşandığı ve ekip üyelerinin sınav tarihleri üst üste geldiği için bu sprint için öngörülen hedefler 260 puanla sınırlandırılmıştır.
 
+- **Sprint içinde tamamlanması tahmin edilen puan**: 260 Puan
 
-- **Sprint içinde tamamlanması tahmin edilen puan**: 240 Puan
-
-- **Puan tamamlama mantığı**: Toplamda sprint boyunca tamamlanması gereken 240 puanlık backlog bulunmaktadır. Bu sprintte harcanan saat ve görevlerin zorluğuna göre puanlama yapılmıştır.
+- **Puan tamamlama mantığı**: Toplamda sprint boyunca tamamlanması gereken 260 puanlık backlog bulunmaktadır. Bu sprintte harcanan saat ve görevlerin zorluğuna göre puanlama yapılmıştır.
 - **Puanlamalar**:
 - Oyun içi Minigame'lerin eklemmesi: 40 puan
 - Yeni Level Dizaynı: 60 puan
@@ -164,6 +163,7 @@ Trello Board’da bahsedilen Sprint Task’leri görüntülenebilir.
 - Yan Karakterlerin Dizaynı: 40 puan
 - Hata Ayıklama: 30 puan
 - Ses Efektleri ekleme:  20 puan
+- Kamera eklenmesi, gameplay açılarının kararlaştırılması: 20 Puan
 Trello Board’da bahsedilen Sprint Task’leri görüntülenebilir.
 
 - **Backlog düzeni**:  Backlog'umuz ilk yapılacak task'lere göre ekip arkadaşlarımızla beraber düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde uygulanabilmesi için kolay seçimler yapılmaktadır. 
@@ -177,16 +177,17 @@ Trello Board’da bahsedilen Sprint Task’leri görüntülenebilir.
 - **Ürün Durumu**: Ekran görüntüleri:
 
 - **Sprint Review**:
-- Karakter oluşturulmuş, harita assetlerinin bir kısmı oluşturulmuş, oyun mekaniklerinden karakter ve düşman hareketleri kodlanmış, öngörülen diğer mekaniklerin kodlanması da planlanmıştır.
-
-- Assetlerin biraz daha detaylı geliştirilmesi ve kodlarda optimizasyonu arttırma kararı alınmıştır.  
+- 
+- Karakter oluşturulmuş, harita assetleri oluşturulmuş, level eklenmiş, karakter ve düşman hareketleri mekanikleri tamamlanmıştır.
 
 - **Sprint Retrospective**:
-- Takım içindeki task paylaşımıyla ilgili düzenleme yapılması kararı alınmıştır
-            
-- Tahmin puanları gözden geçirilmeli ve sprint planlama toplantılarında gerekli geri  bildirimlerin verildiğine emin olunmalı
+- 
+- Takım içindeki task paylaşımı ve tahmini takvimler planlandığından uzaklaştı.
 
-- Takım üyelerinin gelecek sprintlerde aktif olması gerektiğine vurgu yapılmıştır.
+- Karşılaşılan sorunlar açıkça konuşulmadı, tartışıp çözüm üretmekte biraz geciktik.  
+            
+- Unity hakkında tecrübemiz sınırlı oldugundan girişken davranmadık, proje hakkında her düşündüğümüz detay uygulanamadı.
+
 
 
 
