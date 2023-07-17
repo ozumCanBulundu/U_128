@@ -151,30 +151,51 @@ Trello Board’da bahsedilen Sprint Task’leri görüntülenebilir.
 
   # Sprint 3
 
-- **Sprint Notları**: Grup içinde, kullanılan cihazlar arası yazılımsal çeşitli uyumsuzluklar, donanımsal bazı aksaklıklar, bazı iletişim problemleri yaşandığı ve ekip üyelerinin sınav tarihleri üst üste geldiği için bu sprint için öngörülen hedefler 260 puanla sınırlandırılmıştır.
+- **Sprint Notları**: Grup içinde, kullanılan cihazlar arası yazılımsal çeşitli uyumsuzluklar, donanımsal bazı aksaklıklar, bazı iletişim problemleri yaşandığı ve ekip üyelerinin sınav tarihleri üst üste geldiği için bu sprint için öngörülen hedefler 330 puanla sınırlandırılmıştır.
 
-- **Sprint içinde tamamlanması tahmin edilen puan**: 260 Puan
+- **Sprint içinde tamamlanması tahmin edilen puan**: 330 Puan
 
-- **Puan tamamlama mantığı**: Toplamda sprint boyunca tamamlanması gereken 260 puanlık backlog bulunmaktadır. Bu sprintte harcanan saat ve görevlerin zorluğuna göre puanlama yapılmıştır.
+- **Puan tamamlama mantığı**: Toplamda sprint boyunca tamamlanması gereken 330 puanlık backlog bulunmaktadır. Bu sprintte harcanan saat ve görevlerin zorluğuna göre puanlama yapılmıştır.
 - **Puanlamalar**:
 - Oyun içi Minigame'lerin eklemmesi: 40 puan
 - Yeni Level Dizaynı: 60 puan
 - El Feneri Mekaniği: 50 puan
 - Yan Karakterlerin Dizaynı: 40 puan
-- Hata Ayıklama: 30 puan
+- Gameplay'i test etme, Hata Ayıklama: 30 puan
 - Ses Efektleri ekleme:  20 puan
+- Play/Stop eklentisi: 30 puan
 - Kamera eklenmesi, gameplay açılarının kararlaştırılması: 20 Puan
+- Karakter Animasyonları Ekleme: 40 Puan
 Trello Board’da bahsedilen Sprint Task’leri görüntülenebilir.
 
 - **Backlog düzeni**:  Backlog'umuz ilk yapılacak task'lere göre ekip arkadaşlarımızla beraber düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde uygulanabilmesi için kolay seçimler yapılmaktadır. 
 
 
 
-- **Daily Scrum**: Daily Scrum toplantılarının Slack ve Whatsapp platformları üzerinden yazılı olarak ve Discord yayını aracılığıyla toplantılar şeklinde gerçekleştirilmiştir. Çeşitli Daily Scrum toplantısı örnekleri pdf olarak Readme'de tarafımızdan paylaşılmaktadır: 
+- **Daily Scrum**: Daily Scrum toplantılarının Slack ve Whatsapp platformları üzerinden yazılı olarak ve Discord yayını aracılığıyla toplantılar şeklinde gerçekleştirilmiştir. Çeşitli Daily Scrum toplantısı örnekleri pdf olarak Readme'de tarafımızdan paylaşılmaktadır:
+- ![image](https://github.com/ozumCanBulundu/U_128/assets/135602206/cbbaa35d-f2a8-47e2-90cf-5b73e04db05c)
+![image](https://github.com/ozumCanBulundu/U_128/assets/135602206/31f23729-bf12-486f-a627-9a6771fd3be2)
+![image](https://github.com/ozumCanBulundu/U_128/assets/135602206/d1354f07-0ad5-4207-b6b0-7299399d85b5)
+![image](https://github.com/ozumCanBulundu/U_128/assets/135602206/27d527f7-a8dd-4f71-ab89-cb1c1704e38f)
+![image](https://github.com/ozumCanBulundu/U_128/assets/135602206/cd748332-ab97-4b44-abfd-2a95caa8139b)
+![image](https://github.com/ozumCanBulundu/U_128/assets/135602206/54862445-53ce-4a9c-9033-79ee7bbfa169)
+![image](https://github.com/ozumCanBulundu/U_128/assets/135602206/00314bda-98f0-4c3a-aedb-1f1b94535ac2)
+
+
+
 
 - **Sprint board update**: Sprint board screenshotları: 
 
 - **Ürün Durumu**: Ekran görüntüleri:
+![image](https://github.com/ozumCanBulundu/U_128/assets/135602206/0c1fbffa-8c4c-46ac-830b-1085d6ca182d)
+![image](https://github.com/ozumCanBulundu/U_128/assets/135602206/e727e925-fb7c-4168-820e-14d78f05a936)
+![image](https://github.com/ozumCanBulundu/U_128/assets/135602206/f479c85f-c98f-4b4d-9b60-4c5e1915837d)
+![image](https://github.com/ozumCanBulundu/U_128/assets/135602206/238d5fcb-db92-4938-bb2c-e888912f99e3)
+![image](https://github.com/ozumCanBulundu/U_128/assets/135602206/e15ddb89-092c-4506-a9c3-32d5e2e50fbc)
+![image](https://github.com/ozumCanBulundu/U_128/assets/135602206/30a73cbf-a410-4966-869c-0792b33d3d11)
+![image](https://github.com/ozumCanBulundu/U_128/assets/135602206/136665a2-9097-4e1e-a612-e905a2d55a7a)
+![image](https://github.com/ozumCanBulundu/U_128/assets/135602206/575c94b5-619a-4daf-bf63-373f512dba06)
+
 
 - **Sprint Review**:
 - 
