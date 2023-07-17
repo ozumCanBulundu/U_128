@@ -195,6 +195,7 @@ Trello Board’da bahsedilen Sprint Task’leri görüntülenebilir.
 
 
 - **Ürün Durumu**: Ekran görüntüleri:
+- 
 ![image](https://github.com/ozumCanBulundu/U_128/assets/135602206/0c1fbffa-8c4c-46ac-830b-1085d6ca182d)
 ![image](https://github.com/ozumCanBulundu/U_128/assets/135602206/e727e925-fb7c-4168-820e-14d78f05a936)
 ![image](https://github.com/ozumCanBulundu/U_128/assets/135602206/f479c85f-c98f-4b4d-9b60-4c5e1915837d)
